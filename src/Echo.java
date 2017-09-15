@@ -1,3 +1,10 @@
+/**
+ * @author: Sami Jr
+ * @license GNU
+ * @Date 9/14/2017
+ * @Purpose To demonstrate how to use a pop up box with JOptionPane
+ */
+
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
